@@ -3,15 +3,15 @@
 Proyecto Spark para el calculo de métricas de negocios en el ecosistema de retailers.
 
 ## Table Of Contents
-- [Project structure](#Project structure)
+- [Project structure](#Project-structure)
 - [Prerequisites](#Prerequisites)
-- [Setup environment](#Setup environment)
-- [How to run it?](#How to run it)
-- [How to test it?](#How to test?)
+- [Setup environment](#Setup-environment)
+- [How to run it?](#How-to-run-it)
+- [How to test it?](#How-to-test)
 - [Contributing](#Contributing)
 
 
-## Project structure
+## Project-structure
 
 ```
 ├── main.py                 # Principal execution file.
@@ -41,15 +41,15 @@ Proyecto Spark para el calculo de métricas de negocios en el ecosistema de reta
 - pyspark
 - jupyter notebook (es un plus)
 
-## Setup environment
+## Setup-environment
 
 ``here we put our setup environment instructions``
 
-## How to run it
+## How-to-run-it
 
 ``here we put our running steps``
 
-## How to test?
+## How-to-test
 
 ``here we put testing instructions``
 
