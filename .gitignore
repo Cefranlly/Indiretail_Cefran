@@ -1,0 +1,4 @@
+*.pyc
+app-logs/*
+data/*/*
+*.idea
